@@ -1,6 +1,9 @@
 # simple-advisor
 Effortless Trading with MQ5 Simple Advisor
 
+## Arch
+- [New Generation Opensource Data Stack Demo](https://github.com/ziwon/ngods-stocks)
+
 ## Tools
 - [Forex Trade Manager MT5](https://www.mql5.com/en/market/product/39150)
 - [Trade Assistant MT5](https://www.mql5.com/en/market/product/23415)
